@@ -1,0 +1,11 @@
+@use '../abstract/variaveis';
+@use '../abstract/mixins';
+
+.rodape {
+    background: variaveis.$cor-quaternaria;
+    padding: 2rem;
+    text-align: center;
+    margin-top: 5rem;
+    @include mixins.ftFamily-ftSize-ftColor(
+        variaveis.$fonte-texto, 1rem, variaveis.$cor-primaria);
+}

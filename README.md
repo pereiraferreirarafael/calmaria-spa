@@ -80,14 +80,13 @@ sass --watch styles/main.scss styles/main.css
 ## 📸 Screenshots
 
 **Hero — Boas-vindas ao seu refúgio de paz e bem-estar**
-![Hero](docs/screenshots/CalmariaSpa1.png)
+![Hero](CalmariaSpa1.png)
 
 **Serviços — Massagens, Tratamentos Corporais e Dias Especiais**
-![Serviços](docs/screenshots/CalmariaSpa2.png)
+![Serviços](CalmariaSpa2.png)
 
 **Contato — Formulário de agendamento**
-![Contato](docs/screenshots/CalmariaSpa3.png)
-
+![Contato](CalmariaSpa3.png)
 ---
 
 ## 🌐 Deploy (GitHub Pages)
